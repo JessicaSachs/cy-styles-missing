@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.spec.*",
+    "componentFolder": "src",
+    "video": false,
+    "pluginsFile": "./plugins.js"
+}
